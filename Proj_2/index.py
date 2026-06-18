@@ -38,13 +38,14 @@ class Restaurant:
     def bill(self):
         print("--------------Final Invoice--------------")
         total=0
+        ordtdy=False
         for i in self.ord:
             if i[0] == date.today():
+                ordtdy=True
                 print(f"{i[1]} {i[2]} - {float(i[3])*float(i[2])}")
                 total += float(i[3])*float(i[2])
-            else:
-                print("No Orders Made Today")
-                break
+        if ordtdy == False:
+            print("No Orders Todays")
         print(f"Grand Total {total}")
         print("-----------------------------------------")
 
