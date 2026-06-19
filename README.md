@@ -15,3 +15,12 @@ I learnt About Lambda Functions
 18-06-2026 10:07
 Handle menu management, order placement, billing, and order history.
 Out Of This Project I was able to increase fluency in indices. I succesfully implemented using classes and objects.
+
+# Project-3-Railway Reservation System
+19-06-2026
+View trains
+Book ticket
+Cancel ticket
+Booking history
+Seat allocation
+Out OF THe Project I Was Able To Increase Fluency With Indices.
