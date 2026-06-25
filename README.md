@@ -36,3 +36,18 @@ View Balance
 Transaction History
 Logout
 The Project further enhanced my abilites with indices and data handling
+
+# Project-5 Inventory Management System
+24-06-2026 10:21
+Gap between proj 4 and proj 5 was due to me being busy in buying stuff for college
+Manage:
+
+Products
+Stock levels
+Suppliers
+Restocking
+
+New challenge:
+
+Tracking quantities correctly
+Reporting
